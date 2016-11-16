@@ -1,0 +1,1 @@
+json.array! @zologicos, partial: 'zologicos/zologico', as: :zologico

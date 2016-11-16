@@ -1,0 +1,1 @@
+json.partial! "zologicos/zologico", zologico: @zologico
